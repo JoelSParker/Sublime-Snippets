@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-public function get$1 (\$$2) {
+public function get$1() {
 	return \$this->$2;
 }
 ]]></content>
